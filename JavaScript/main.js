@@ -1,5 +1,9 @@
 console.log("Hello CyberSoft")
 
+
+function themNguoiDung() {
+    console.log("trankhachuan2 themnguoiDung");
+}
 //                                      Biến 
 
 //String 
